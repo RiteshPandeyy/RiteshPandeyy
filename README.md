@@ -29,10 +29,5 @@ I am a full stack developer who builds scalable applications, backend APIs, and 
 
 ---
 
-## 📈 GitHub Stats
-
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshPandeyy&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshPandeyy&layout=compact)
-
 
  **Thanks for visiting my profile!**
